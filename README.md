@@ -1,6 +1,6 @@
-# DearData-100-Project
-===============================
-##100 Journeys, 100 Experiences
+**DearData-100-Project**
+
+**100 Journeys, 100 Experiences**
 -------------------------------
 
 This Dear Data project focuses on collecting and exploring data from my daily journeys around London using public transport.
