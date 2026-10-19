@@ -3,8 +3,28 @@
 **100 Journeys, 100 Experiences**
 -------------------------------
 
-This Dear Data project focuses on collecting and exploring data from my daily journeys around London using public transport.
+This Dear Data project focuses on collecing and exploring personal experiences from my daily journeys using public trasport in London.
 
-The main objective is to collect at least 100 real observations about my journeys, incluiding the types of transport I use, journey duration, crowding levels, and personal experiences.
+The aim is to observe how different transport type, crowding levels, time periods and unexpected events relate to the way i feel while travelling.
 
-Using Processing, I aim to create a creative data visualization that represents these observations and helps me discover patterns in my daily travel experiences.
+Rather than focusing only on transport statistics, this project explores the personal side of travelling through London.
+
+**Data collection**
+
+The goal is to collect at least 100 real observations based on my journeys. Each observation represents individual journeys on a public transport vehicle, such as underground, trains, DLR, or buses.
+
+**What Data is collecting?**
+
+For each journey the data collected includes: Data and time, Transport, time period, crowding level, feeling, unexpeted event, and notes. these observations are based on real journeys.
+
+**Project File**
+
+[Dear Data Project.xlsx](./Dear%20Data%20Project.xlsx) -- Main data collection spreadsheet, maintained in Excel.
+
+[GitHub Data View.csv](./GitHub%20Data%20View.csv) -- CSV version of the observations for previewing and future programming.
+
+**Creative Visualisation**
+
+While the data colletion is still in progress, the plan is use Processing to create a creative visual representation of my observations.
+
+The aim is to explore patterns between transport types, crowdig, time periods, unexpeted events, and personal feelings.
