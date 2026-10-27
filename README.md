@@ -23,6 +23,8 @@ For each journey the data collected includes: Data and time, Transport, time per
 
 [GitHub Data View.csv](./GitHub%20Data%20View.csv) -- CSV version of the observations for previewing and future programming.
 
+[Proccesing Data Beta](./Dear_Data_Processing_Beta/) -- File with Initial processing dashboard. Work in progress.
+
 **Creative Visualisation**
 
 While the data colletion is still in progress, the plan is use Processing to create a creative visual representation of my observations.
