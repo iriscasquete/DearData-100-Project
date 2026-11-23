@@ -2,10 +2,10 @@
 Data Diary,,,,,,,,,
 Data №,Date,Day,Time,Transport,Time Period,Crowding Level,Feeling,Un Event,Notes
 1,12/10/2026,Monday,8:17 AM,DLR,Morning,5(Packed),Unwell,Yes,"Sugar crash, Left the train early"
-2,12/10/2026,Monday,8:20 AM,DLR,Morning,5(Packed),Unwell,Yes,Passanger offered help
+2,12/10/2026,Monday ,8:20 AM,DLR,Morning,5(Packed),Unwell,Yes,Passanger offered help
 3,12/10/2026,Monday,8:44 AM,NORTHERN,Morning,4(Crowded),Uncomfortable,No,"Crowded initially, quieter after"
 4,12/10/2026,Monday,8:55 AM,BUS,Morning,2(Quiet),Neutral,No,Listening music
-5,12/10/2026,Monday,4:12 PM,BUS,Afternoon,1(Empty),Neutral,No,"Empty, listening music"
+5,12/10/2026,Monday,4:12 PM,BUS,Afternoon,1(Empty),Neutral,No,Listening music
 6,12/10/2026,Monday,4:21 PM,NORTHERN,Afternoon,2(Quiet),Neutral,No,Several passengers with suitcase
 7,12/10/2026,Monday,4:27 PM,ELIZABETH,Afternoon,3(Busy),Tired,No,No seats available
 8,12/10/2026,Monday,4:42 PM,DLR,Afternoon,2(Quiet),Neutral,No,Initially empty became busier
@@ -49,3 +49,34 @@ Data №,Date,Day,Time,Transport,Time Period,Crowding Level,Feeling,Un Event,Not
 46,19/10/2026,Monday,12:28 PM,DLR,Afternoon,2(Quiet),Neutral,No,One stop journey
 47,19/10/2026,Monday,12:33 PM,DLR,Afternoon,3(Busy),Neutral,No,Became slightly busier
 48,19/10/2026,Monday,12:49 PM,NORTHERN,Afternoon,3(Busy),Neutral,No,Became slightly busier
+49,19/10/2026,Monday,4:13 PM,NORTHERN,Afternoon,2(Quiet),Neutral,No,Return journey
+50,19/10/2026,Monday,4:35 PM,DLR,Afternoon,2(Quiet),Neutral,No,Return transfer
+51,19/10/2026,Monday,4:57 PM,DLR,Afternoon,2(Quiet),Neutral,No,One-stop ride
+52,16/11/2026,Monday,5:26 PM,GATWICK EXPRESS,Evening,3(Busy),Neutral,No,"Airport train, seated with luggage"
+53,16/11/2026,Monday,6:02 PM,VICTORIA,Evening,3(Busy),Neutral,No,Standing with suitcases
+54,16/11/2026,Monday,6:14 PM,CENTRAL,Evening,4(Crowded),Tired,No,Very tired carrying luggage
+55,16/11/2026,Monday,6:29 PM,DLR,Evening,3(Busy),Tired,No,"Still tired, standing with luggage"
+56,17/11/2026,Tuesday,8:14 AM,DLR,Morning,5(Packed),Stressed,No,Studying for exam
+57,17/11/2026,Tuesday,8:38 AM,NORTHERN,Morning,4(Crowded),Stressed,No,Thinking about exam
+58,17/11/2026,Tuesday,12:12 PM,NORTHERN,Afternoon,1(Empty),Neutral,No,Listening music
+59,17/11/2026,Tuesday,12:29 PM,DLR,Afternoon,2(Quiet),Neutral,No,Listening music
+60,17/11/2026,Tuesday,12:48 PM,DLR,Afternoon,2(Quiet),Neutral,No,One-stop ride
+61,17/11/2026,Tuesday,6:16 PM,DLR,Evening,2(Quiet),Tired,No,Sleepy after studying
+62,17/11/2026,Tuesday,6:38 PM,NORTHERN,Evening,3(Busy),Tired,No,Sleepy
+63,17/11/2026,Tuesday,7:04 PM,VICTORIA,Evening,1(Empty),Tired,No,Tired before concert
+64,17/11/2026,Tuesday,10:49 PM,VICTORIA,Night,5(Packed),Happy,No,"Happy after concert, but exhausted"
+65,17/11/2026,Tuesday,10:58 PM,NORTHERN,Night,5(Packed),Happy,No,Tired and sleepy
+66,17/11/2026,Tuesday,11:19 PM,DLR,Night,5(Packed),Happy,No,Listening music
+67,18/11/2026,Wednesday,4:19 PM,DLR,Afternoon,2(Quiet),Neutral,No,Listening music
+68,18/11/2026,Wednesday,4:38 PM,ELIZABETH,Afternoon,2(Quiet),Neutral,No,Listening music
+69,18/11/2026,Wednesday,9:41 PM,ELIZABETH,Evening,2(Quiet),Neutral,No,Quiet journey after work
+70,18/11/2026,Wednesday,10:05 PM,DLR,Night,2(Quiet),Neutral,No,Quiet journey after work
+71,19/11/2026,Thursday,4:16 PM,DLR,Afternoon,3(Busy),Neutral,No,Listening music
+72,19/11/2026,Thursday,4:35 PM,ELIZABETH,Afternoon,3(Busy),Neutral,No,Listening music
+73,20/11/2026,Friday,12:27 AM,ELIZABETH,Night,2(Quiet),Tired,No,Phone damaged before journey
+74,20/11/2026,Friday,12:49 AM,DLR,Night,2(Quiet),Tired,No,"Sleepy, no music"
+75,20/11/2026,Friday,8:20 AM,DLR,Morning,3(Busy),Neutral,No,No phone for music
+76,20/11/2026,Friday,8:26 AM,DLR,Morning,4(Crowded),Neutral,No,"Not music, thinking"
+77,20/11/2026,Friday,8:44 AM,NORTHERN,Morning,4(Crowded),Neutral,No,Short Underground connection
+78,20/11/2026,Friday,8:52 AM,HAMMERSMITH,Morning,3(Busy),Neutral,No,Short ride
+79,20/11/2026,Friday,10:10 AM,BUS,Morning,2(Quiet),Neutral,No,Trip between buildings
